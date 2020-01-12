@@ -55,7 +55,7 @@ body{
 }
 .multi-line-text {
   font-size: 20px;
-  background: linear-gradient(Teal, Teal);
+  background: linear-gradient(orange, Orange);
   justify-content: center;
   align-items: center;
   border-radius: 70%;
